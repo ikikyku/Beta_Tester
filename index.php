@@ -19,13 +19,7 @@
 				
 				<!--Navbar Menu BUTTON-->
 
-				<ul class="nav navbar-nav">
-					<li><a href="#feedback">Feedback</a></li>
-					<li><a href="#gallery">Gallery</a></li>
-					<li><a href="#feature">Feature</a></li>
-					<li><a href="#faq">FAQ</a></li>
-					<li><a href="#contact">Contact</a></li>
-				</ul>
+
 			</div><!--Navbar Menu-->
 
 		</div><!--Container End-->
