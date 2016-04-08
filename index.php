@@ -10,15 +10,6 @@
 </head>
 <body data-spy="scroll" data-target="#mynavbar1">
 
-<!--Navbar-->
-	<nav class="navbar navbar-inverse navbar-fixed-top" id="mynavbar1">
-		<div class="container">
-			<div class="navbar-header"><!--Navbar Brand and Burger Responsive Button-->
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				</button>
 
 				<a href="" class="navbar-brand">NdasGede</a>
 			</div><!--Navbar Brand and Burger Responsive Button-->
